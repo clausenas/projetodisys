@@ -9,7 +9,20 @@ Exemplos <br>
 
 Para adicionar um funcionário, basta preencher as informações, para cargo e departamento basta preencher o nome se casa não existir os mesmos serão criados.<br>
 Ex:<br>
-
- 
-
-
+```
+{ 
+ "funcionario":{
+        "funcionarioNome": "Joa da Silva",
+        "funcionarioAge": 35,
+        "funcionarioBirthday": "1986-05-07",
+        "funcionarioDucument": "01572019611",
+        "cargo": {
+            "cargoNome": "Desenvolvedor JR"
+        }
+    },
+    
+    "departamento": {
+        "departamentoName": "CPD"
+    }
+}
+```
