@@ -2,5 +2,5 @@
 O projeto foi desenvolvido utilizando Spring Boot, Java 11 e banco de dados H2.
 
 links <br>
-Swagger http://localhost:8080/swagger-ui.html
+Swagger http://localhost:8080/swagger-ui.html <br>
 H2 http://localhost:8080/h2
