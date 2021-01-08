@@ -12,7 +12,7 @@ Ex:<br>
 ```
 { 
  "funcionario":{
-        "funcionarioNome": "Joa da Silva",
+        "funcionarioNome": "João da Silva",
         "funcionarioAge": 35,
         "funcionarioBirthday": "1986-05-07",
         "funcionarioDucument": "01572019611",
