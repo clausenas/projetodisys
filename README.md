@@ -5,7 +5,7 @@ links <br>
 Swagger http://localhost:8080/swagger-ui.html <br>
 H2 http://localhost:8080/h2
 
-Exemplos <br>
+<br>
 
 Para adicionar um funcionário, basta preencher as informações, para cargo e departamento basta preencher o nome se caso não existir os mesmos serão criados.<br>
 Ex:<br>
